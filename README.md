@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Shaik Mudassir]  
 
 👨‍💻 **Software Developer** | 📊 **Data Analyst** | 🤖 **AI/ML Enthusiast**  
 
@@ -24,24 +24,12 @@
 
 ---
 
-## 📂 Featured Projects  
-🔹 [ATM Web App (Django)](https://github.com/YOURUSERNAME/atm_web_app) – A simple ATM simulation built with Django.  
-🔹 [Data Analysis Dashboard](https://github.com/YOURUSERNAME/data-analysis-dashboard) – Data cleaning & visualization using Python + Power BI.  
-🔹 [AI Chatbot](https://github.com/YOURUSERNAME/ai-chatbot) – NLP-powered chatbot using TensorFlow.  
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
-
----
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOURPORTFOLIO.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPwqnGGu0SiWEX2JBvs0F8A%3D%3D)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmudassir033@gmail.com)  
 
-⭐️ From [YOURUSERNAME](https://github.com/YOURUSERNAME)  
+⭐️ From [Shaik Mudassir](https://github.com/YOURUSERNAME)  
