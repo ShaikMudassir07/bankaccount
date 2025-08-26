@@ -21,3 +21,7 @@ A simple backend application built with **Julia** to simulate core banking opera
 ---
 
 ## 📂 Project Structure
+📦 bank_account_backend
+┣ 📜 bank.jl # Main logic for bank account operations
+┣ 📜 test_bank.jl # Test cases / usage examples
+┗ 📜 README.md # Project documentation
